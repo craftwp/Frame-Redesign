@@ -11,7 +11,7 @@ Preview
 
 Live Demo
 
-"View Demo" (https://craftwp.github.io/frame-redesign/)
+"View Demo" ([https://craftwp.github.io/frame-redesign/])
 
 
 Technologies Used
